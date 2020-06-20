@@ -1,6 +1,6 @@
-# # # **PROGRAMACIÓN II** # # #
+### **PROGRAMACIÓN II** ###
 
-# # **Trabajo Práctico sobre Git** # #
+## **Trabajo Práctico sobre Git** ##
 
 # **Preguntas** #
 
