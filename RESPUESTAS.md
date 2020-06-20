@@ -1,8 +1,8 @@
-###**PROGRAMACIÓN II**###
+# # # **PROGRAMACIÓN II** # # #
 
-##**Trabajo Práctico sobre Git**##
+# # **Trabajo Práctico sobre Git** # #
 
-#**Preguntas**#
+# **Preguntas** #
 
 ***1. ¿Qué es git?***
 
